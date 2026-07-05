@@ -1,6 +1,6 @@
 # Site professionnel — Antoine Courtin
 
-Site statique prêt pour GitHub Pages.
+Site statique prêt pour GitHub Pages, composé d’une page d’accueil et d’un CV détaillé imprimable.
 
 ## Publication sur GitHub Pages
 
